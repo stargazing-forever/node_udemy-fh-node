@@ -1,0 +1,19 @@
+npm init
+
+npm init -y => para inicio rapido
+
+test command: para hacer pruebas
+
+npm i colors => paque de dependica en desarrollo
+npm i --save-dev nodemon => paque para uso en desarrollo
+
+npm uninstall paqueteName => cualquiera dev o desarrollo
+
+npm i colors@1.1.1 instalar alguna version
+
+npm update => actualizar
+
+## tags
+git tag -a v1.0.0 -m "Fin seccion 8"
+git push --tags
+	editarlo en git para que sea un release
